@@ -6,7 +6,7 @@
 
 ### Instructions
 
-Open `REINFORCE.ipynb` to see an implementation of the REINFORCE algorithm (also known as Monte Carlo Policy Gradients) on the OpenAI Gym's Cartpole environment.
+Open `REINFORCE.ipynb` to see an application of the REINFORCE algorithm (also known as Monte Carlo Policy Gradients) to the OpenAI Gym's Cartpole environment.
 
 You can experiment with changing the training parameters in the notebook to understand how the learning of the agent is affected.
 
