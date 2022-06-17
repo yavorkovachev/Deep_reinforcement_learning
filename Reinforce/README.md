@@ -1,7 +1,3 @@
-[//]: # (Image References)
-
-[image1]: https://user-images.githubusercontent.com/10624937/42135683-dde5c6f0-7d13-11e8-90b1-8770df3e40cf.gif "Trained Agent"
-
 # REINFORCE
 
 ### Instructions
@@ -10,8 +6,11 @@ Open the notebook `Reinforce_Colab.ipynb` to see an application of the REINFORCE
 
 Experiment with changing the training parameters in the notebook to understand how the learning of the agent is affected.
 
-### Results - Reinforce trained agent
+### Results 
 
-<!--- ![Trained Agent][image1] --->
+In the Cartpole environment a pole (pendulum) is attached by an un-actuated joint to a cart, which moves along a frictionless track. The pole (pendulum) is placed upright on the cart and the goal is to balance it by applying forces in the left and right direction on the cart.
+
+Below is a gif showing the reinforce trained agent balancing the pole.
+
 
 ![Reinforce trained agent](Reinforce_Cart_Pole_v0.gif)
