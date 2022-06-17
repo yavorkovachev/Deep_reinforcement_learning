@@ -6,9 +6,9 @@
 
 ### Instructions
 
-Open the notebook `Reinforce_Colab.ipynb` to see an application of the REINFORCE algorithm (also known as Monte Carlo Policy Gradients) to the OpenAI Gym's Cartpole environment. The notebook runs on the Google `Colab` environment where access to GPUs is freely available. Alternatively, you can download the `Reinforce.ipynb` notebook and run locally.
+Open the notebook `Reinforce_Colab.ipynb` to see an application of the REINFORCE algorithm (also known as Monte Carlo Policy Gradients) to the OpenAI Gym's Cartpole environment. This notebook runs on the Google `Colab` environment where access to GPUs is freely available. Alternatively, you can download the `Reinforce.ipynb` notebook and run locally.
 
-You can experiment with changing the training parameters in the notebook to understand how the learning of the agent is affected.
+Experiment with changing the training parameters in the notebook to understand how the learning of the agent is affected.
 
 ### Results
 
