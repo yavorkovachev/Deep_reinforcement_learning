@@ -13,3 +13,5 @@ Experiment with changing the training parameters in the notebook to understand h
 ### Results
 
 ![Trained Agent][image1]
+
+![REINFORCE Trianed Agent][https://github.com/yavorkovachev/Reinforcement_learning/blob/main/Reinforce/Reinforce.mp4]
