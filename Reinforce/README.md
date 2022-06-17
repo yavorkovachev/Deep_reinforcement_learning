@@ -14,4 +14,4 @@ Experiment with changing the training parameters in the notebook to understand h
 
 ![Trained Agent][image1]
 
-![REINFORCE Trianed Agent][https://github.com/yavorkovachev/Reinforcement_learning/blob/main/Reinforce/Reinforce.mp4]
+![REINFORCE Trianed Agent][[https://github.com/yavorkovachev/Reinforcement_learning/blob/main/Reinforce/Reinforce_Cart_Pole_v0.gif]
