@@ -10,8 +10,8 @@ Open the notebook `Reinforce_Colab.ipynb` to see an application of the REINFORCE
 
 Experiment with changing the training parameters in the notebook to understand how the learning of the agent is affected.
 
-### Results
+### Results - Reinforce trained agent
 
-![Trained Agent][image1]
+<!--- ![Trained Agent][image1] --->
 
-![REINFORCE Trianed Agent][Reinforce_Cart_Pole_v0.gif]
+![Reinforce trained agent](Reinforce_Cart_Pole_v0.gif)
