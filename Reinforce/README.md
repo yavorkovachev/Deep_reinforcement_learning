@@ -10,7 +10,7 @@ Experiment with changing the training parameters in the notebook to understand h
 
 In the [Cartpole](https://github.com/openai/gym/blob/master/gym/envs/classic_control/cartpole.py) environment a pole (pendulum) is attached by an un-actuated joint to a cart, which moves along a frictionless track. The pole (pendulum) is placed upright on the cart and the goal is to balance it by applying forces in the left and right direction on the cart.
 
-Below is a gif showing the reinforce trained agent balancing the pole.
+Below is a gif showing the REINFORCE-trained agent balancing the pole.
 
 
 ![Reinforce trained agent](Reinforce_Cart_Pole_v0.gif)
